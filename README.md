@@ -6,6 +6,6 @@ Jonas Keller, 32, lebt in Leipzig und ist Softwareentwickler mit Leidenschaft f√
 
 Links 
 [Biografie.md](https://github.com/Kyyuu133/Jonas-Keller/edit/main/README.md#:~:text=t-,Biografie.,-md)
-[Eigenschaften.txt](https://github.com/Kyyuu133/Jonas-Keller/edit/main/README.md#:~:text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt&text=Biografie.md-,Eigenschaften,-.txt)
+[Eigenschaften.txt](https://github.com/Kyyuu133/Jonas-Keller/blob/main/Eigenschaften.txt#:~:text=README.md-,Eigenschaften.txt,-Breadcrumbs)
 [abentuer.md](https://github.com/Kyyuu133/Jonas-Keller/blob/main/abenteuer.md#:~:text=README.md-,abenteuer.md,-Breadcrumbs)
 
