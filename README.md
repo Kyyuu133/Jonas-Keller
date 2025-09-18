@@ -5,4 +5,5 @@ Vorstellung
 Jonas Keller, 32, lebt in Leipzig und ist Softwareentwickler mit Leidenschaft für Musik und Technik. Nachdenklich, humorvoll und hilfsbereit, kämpft er mit Selbstzweifeln und Aufschieberitis. Seine Kreativität treibt ihn an, ein nachhaltiges Start-up zu gründen. Reisen, Natur und enge Freundschaften prägen sein Leben und inspirieren seine Träume.
 
 Links 
-[Meine Eigenschaften](eigenschaften.txt)
+[Meine Eigenschaften](https://github.com/USERNAME/REPO/blob/main/eigenschaften.txt)
+
