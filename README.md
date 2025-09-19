@@ -4,6 +4,8 @@ Vorstellung
 
 Jonas Keller, 32, lebt in Leipzig und ist Softwareentwickler mit Leidenschaft für Musik und Technik. Nachdenklich, humorvoll und hilfsbereit, kämpft er mit Selbstzweifeln und Aufschieberitis. Seine Kreativität treibt ihn an, ein nachhaltiges Start-up zu gründen. Reisen, Natur und enge Freundschaften prägen sein Leben und inspirieren seine Träume.
 
+klappt es 
+
 Links 
 [Biografie.md](https://github.com/Kyyuu133/Jonas-Keller/blob/main/Biografie.md#:~:text=README.md-,Biografie.md,-Breadcrumbs)
 [Eigenschaften.txt](https://github.com/Kyyuu133/Jonas-Keller/blob/main/Eigenschaften.txt#:~:text=README.md-,Eigenschaften.txt,-Breadcrumbs)
